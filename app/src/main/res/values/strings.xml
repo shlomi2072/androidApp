@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyReallyProject</string>
+    <string name="text_order">Click on the type of image you are interested in</string>
+    <string name="button_alive">alive</string>
+    <string name="button_inanimate">inanimate</string>
+    <string name="button_growing">growing</string>
+    <string name="edit_atribute">Enter propertie</string>
+    <string name="hint_edit_prototipe">Enter propertie</string>
+    <string name="labal_bar">rate</string>
+    <string name="text_share">share</string>
+    <string name="todo">TODO</string>
+    <string name="share_buttob">share</string>
+</resources>
